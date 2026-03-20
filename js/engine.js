@@ -31,7 +31,7 @@ const C21Engine = (function() {
 
     async function fetchData(fileName, signal) {
         try {
-            const response = await fetch(`data/${fileName}.json`, { signal });
+            const response = await fetch(`/data/${fileName}.json`, { signal });
             if (!response.ok) {
                 console.warn(`File not found: ${fileName} (${response.status})`);
                 return null;
