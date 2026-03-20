@@ -166,7 +166,11 @@
         if (!scenarioTitle) {
             return;
         }
-
+// NUEVO: esperar si aún está cargando
+    if (C21Engine.isLoading()) {
+        setTimeout(onScenarioChange, 300);
+        return;
+    }
         const themes = C21Engine.getThemes(scenarioTitle);
         if (themes.length > 0) {
             populateDropdown(elements.theme, themes);
