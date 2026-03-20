@@ -1,0 +1,719 @@
+{
+  "project_type": "official_meduca",
+  "grade": "5",
+  "proficiency_level": "A1.3",
+  "projects_by_scenario": {
+    "Following Instructions at School": [
+      {
+        "id": "grade5_scenario1_project1",
+        "category": "Instruction Giving",
+        "name": "Classroom How-To Guide",
+        "overview": "Students create a step-by-step written guide for a classroom task (e.g., organizing supplies, setting up for an activity), using imperatives and sequencing words like 'first, next, and then'.",
+        "general_objective": "Develop instruction-writing skills using sequencing language and imperatives.",
+        "specific_objectives": [
+          "Use imperatives and sequencing words correctly",
+          "Describe a classroom task step by step",
+          "Apply clear and organized writing",
+          "Share instructions with peers"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.1.1",
+          "CE.ING.5.2.1"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Paper or notebooks",
+          "Pencils/markers",
+          "Classroom supplies for reference"
+        ],
+        "technology_integration": "Use digital tools to create and share the guide.",
+        "skills_developed": [
+          "Instruction Giving",
+          "Sequencing",
+          "Collaboration"
+        ]
+      },
+      {
+        "id": "grade5_scenario1_project2",
+        "category": "Digital Communication",
+        "name": "Instructional Video",
+        "overview": "Students record a video demonstrating a classroom routine, such as cleaning up or preparing for a project, using imperatives and collaborative language like 'let's' and 'we'.",
+        "general_objective": "Develop oral communication and digital production skills.",
+        "specific_objectives": [
+          "Use imperatives and collaborative language in video",
+          "Demonstrate a classroom routine clearly",
+          "Work collaboratively on video production",
+          "Present to classmates"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.1.2",
+          "CE.ING.5.4.1"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Tablet or phone for recording",
+          "Script notes",
+          "Classroom props"
+        ],
+        "technology_integration": "Use video recording and editing tools for instructional videos.",
+        "skills_developed": [
+          "Oral Communication",
+          "Digital Literacy",
+          "Teamwork"
+        ]
+      },
+      {
+        "id": "grade5_scenario1_project3",
+        "category": "Visual Organization",
+        "name": "Task Flowchart",
+        "overview": "Students design a flowchart outlining steps in completing a task (e.g., art project or science experiment) with sequencing words and imperatives.",
+        "general_objective": "Develop organizational and visual communication skills.",
+        "specific_objectives": [
+          "Design a clear flowchart with steps",
+          "Use sequencing words and imperatives",
+          "Present flowchart to class",
+          "Apply critical thinking to task organization"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.1",
+          "CE.ING.5.3.1"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Paper or digital tool",
+          "Markers",
+          "Flowchart template"
+        ],
+        "technology_integration": "Use digital tools for flowchart creation.",
+        "skills_developed": [
+          "Critical Thinking",
+          "Visual Communication",
+          "Organization"
+        ]
+      }
+    ],
+    "Taking Care of Our Class": [
+      {
+        "id": "grade5_scenario2_project1",
+        "category": "Responsibility & Planning",
+        "name": "Classroom Clean-Up Plan",
+        "overview": "Students develop a written plan outlining roles and responsibilities for keeping the classroom clean, using imperatives and present continuous tense (e.g., 'We are sweeping the floors.').",
+        "general_objective": "Develop responsibility and collaborative planning skills.",
+        "specific_objectives": [
+          "Assign and describe cleaning roles",
+          "Use imperatives and present continuous correctly",
+          "Collaborate with peers on planning",
+          "Present plan to class"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.1.1",
+          "CE.ING.5.2.2"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Paper or notebooks",
+          "Markers",
+          "Role assignment chart"
+        ],
+        "technology_integration": "Use digital design tools for the plan.",
+        "skills_developed": [
+          "Responsibility",
+          "Communication",
+          "Collaboration"
+        ]
+      },
+      {
+        "id": "grade5_scenario2_project2",
+        "category": "Visual Design",
+        "name": "Cleaning Instruction Poster",
+        "overview": "Students design posters with illustrated instructions for cleaning tasks, using imperatives and collaborative language (e.g., 'Let's arrange the chairs.').",
+        "general_objective": "Develop visual communication and language skills.",
+        "specific_objectives": [
+          "Create clear illustrated instructions",
+          "Use imperatives and collaborative language",
+          "Design an organized and attractive poster",
+          "Display poster in the classroom"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.1",
+          "CE.ING.5.3.2"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Poster board",
+          "Markers/crayons",
+          "Ruler"
+        ],
+        "technology_integration": "Use digital design tools for posters.",
+        "skills_developed": [
+          "Visual Communication",
+          "Creativity",
+          "Language Use"
+        ]
+      },
+      {
+        "id": "grade5_scenario2_project3",
+        "category": "Digital Organization",
+        "name": "Classroom Responsibility Chart",
+        "overview": "Students create a responsibility chart on paper or digitally, assigning weekly tasks to classmates, using present continuous and imperatives.",
+        "general_objective": "Develop organizational and digital literacy skills.",
+        "specific_objectives": [
+          "Assign weekly tasks using a chart",
+          "Use present continuous and imperatives",
+          "Collaborate with peers",
+          "Share chart with the class"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.2",
+          "CE.ING.5.4.1"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Paper or tablet",
+          "Markers",
+          "Chart template"
+        ],
+        "technology_integration": "Use digital tools for chart creation.",
+        "skills_developed": [
+          "Organization",
+          "Digital Literacy",
+          "Teamwork"
+        ]
+      }
+    ],
+    "The Local Farm Stand": [
+      {
+        "id": "grade5_scenario3_project1",
+        "category": "Communication & Role-Play",
+        "name": "Farm Stand Role-Play",
+        "overview": "Students participate in a role-play simulating a farm stand transaction, using polite requests and WH-questions (e.g., 'How much is the pineapple?' 'I need two papayas, please.').",
+        "general_objective": "Develop transactional communication and role-play skills.",
+        "specific_objectives": [
+          "Use polite requests and WH-questions",
+          "Simulate a farm stand transaction",
+          "Practice vocabulary for fruits and vegetables",
+          "Interact respectfully with peers"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.1.2",
+          "CE.ING.5.3.1"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Play money",
+          "Fruit/vegetable pictures or props",
+          "Price tags"
+        ],
+        "technology_integration": "Use apps or digital tools for digital shopping simulations.",
+        "skills_developed": [
+          "Oral Communication",
+          "Social Skills",
+          "Vocabulary"
+        ]
+      },
+      {
+        "id": "grade5_scenario3_project2",
+        "category": "Writing & Economics",
+        "name": "Farm Stand Price List",
+        "overview": "Students create a price list for a simulated farm stand, using quantities and the present simple tense for items and prices.",
+        "general_objective": "Develop writing and basic economic literacy skills.",
+        "specific_objectives": [
+          "List farm stand items with prices",
+          "Use present simple and quantifiers",
+          "Design a clear price list",
+          "Present list to classmates"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.1",
+          "CE.ING.5.3.2"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Paper or card",
+          "Markers",
+          "Price list template"
+        ],
+        "technology_integration": "Use digital tools to create price lists.",
+        "skills_developed": [
+          "Writing",
+          "Economic Literacy",
+          "Creativity"
+        ]
+      },
+      {
+        "id": "grade5_scenario3_project3",
+        "category": "Digital Literacy",
+        "name": "Digital Shopping List",
+        "overview": "Students develop a simple shopping list with pictures, using a digital tool or sketching the app on paper. They practice quantifiers and polite requests to complete the list.",
+        "general_objective": "Develop digital literacy and practical language skills.",
+        "specific_objectives": [
+          "Create a digital or illustrated shopping list",
+          "Use quantifiers and polite requests",
+          "Include images for each item",
+          "Share list with the class"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.2",
+          "CE.ING.5.4.1"
+        ],
+        "duration": "1-2 class periods",
+        "materials": [
+          "Tablet or paper",
+          "Markers",
+          "Food pictures"
+        ],
+        "technology_integration": "Use apps or digital tools to create shopping lists.",
+        "skills_developed": [
+          "Digital Literacy",
+          "Practical Communication",
+          "Creativity"
+        ]
+      }
+    ],
+    "Helping Around the House": [
+      {
+        "id": "grade5_scenario4_project1",
+        "category": "Digital Planning",
+        "name": "Chore Scheduling App",
+        "overview": "Students create a digital schedule or use a paper scheduler for household chores. They describe daily routines using the present simple tense and frequency adverbs like 'always' and 'sometimes'.",
+        "general_objective": "Develop responsibility and planning skills using present simple and frequency adverbs.",
+        "specific_objectives": [
+          "Schedule household chores for the week",
+          "Use present simple and frequency adverbs",
+          "Design a clear and organized schedule",
+          "Share schedule with family or classmates"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.1",
+          "CE.ING.5.4.1"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Tablet or paper",
+          "Markers",
+          "Schedule template"
+        ],
+        "technology_integration": "Use digital scheduling tools and apps.",
+        "skills_developed": [
+          "Responsibility",
+          "Organization",
+          "Language Use"
+        ]
+      },
+      {
+        "id": "grade5_scenario4_project2",
+        "category": "Visual Communication",
+        "name": "Family Chore Poster",
+        "overview": "Students design a chore poster showing who is responsible for different household tasks. They use the present simple tense and vocabulary for chores (e.g., 'wash,' 'clean,' and 'sweep').",
+        "general_objective": "Develop visual design and writing skills related to household vocabulary.",
+        "specific_objectives": [
+          "Assign household tasks to family members",
+          "Use present simple and chore vocabulary",
+          "Design an attractive and clear poster",
+          "Present poster to class"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.2",
+          "CE.ING.5.3.1"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Poster board",
+          "Markers",
+          "Family member labels"
+        ],
+        "technology_integration": "Use digital design tools for the poster.",
+        "skills_developed": [
+          "Visual Communication",
+          "Vocabulary",
+          "Creativity"
+        ]
+      },
+      {
+        "id": "grade5_scenario4_project3",
+        "category": "Art & Language",
+        "name": "Chore Mural",
+        "overview": "Students each create a picture for a large classroom mural that shows various chores being completed.",
+        "general_objective": "Develop creative expression and vocabulary related to household chores.",
+        "specific_objectives": [
+          "Draw and label a chore scene",
+          "Contribute to a collaborative classroom mural",
+          "Use chore vocabulary correctly",
+          "Present their section to classmates"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.3.1",
+          "CE.ING.5.3.2"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Large paper or wall space",
+          "Paint or markers",
+          "Labels"
+        ],
+        "technology_integration": "Photograph mural for digital display.",
+        "skills_developed": [
+          "Creativity",
+          "Collaboration",
+          "Vocabulary"
+        ]
+      }
+    ],
+    "Time for Exercise": [
+      {
+        "id": "grade5_scenario5_project1",
+        "category": "Health & Writing",
+        "name": "Fitness Routine Guide",
+        "overview": "Students write a fitness routine guide, using modal verbs like 'can' and 'cannot' to describe abilities and routines for sports or exercises.",
+        "general_objective": "Develop writing skills and health awareness using modal verbs.",
+        "specific_objectives": [
+          "Describe a personal fitness routine",
+          "Use modal verbs can/cannot correctly",
+          "Organize information clearly",
+          "Share guide with classmates"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.1",
+          "CE.ING.5.3.1"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Paper or notebook",
+          "Pencils",
+          "Exercise pictures for reference"
+        ],
+        "technology_integration": "Use digital tools for virtual exercise tracking.",
+        "skills_developed": [
+          "Health Awareness",
+          "Writing",
+          "Language Use"
+        ]
+      },
+      {
+        "id": "grade5_scenario5_project2",
+        "category": "Visual Design",
+        "name": "Exercise Plan Poster",
+        "overview": "Students design posters showing different physical activities and sports, using present simple tense and modals like 'can' to describe what they can do to stay active.",
+        "general_objective": "Develop visual communication and health vocabulary.",
+        "specific_objectives": [
+          "Illustrate different exercises and sports",
+          "Use present simple and modal 'can'",
+          "Design a clear and colorful poster",
+          "Display poster in the classroom"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.2",
+          "CE.ING.5.3.2"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Poster board",
+          "Markers/crayons",
+          "Sports images"
+        ],
+        "technology_integration": "Use digital tools for designing posters.",
+        "skills_developed": [
+          "Visual Communication",
+          "Creativity",
+          "Health Literacy"
+        ]
+      },
+      {
+        "id": "grade5_scenario5_project3",
+        "category": "Digital Media",
+        "name": "Virtual Exercise Challenge",
+        "overview": "Students participate in a virtual exercise challenge by selecting an exercise challenge video or creating their own, recording their activities, and using the present simple and modals to describe their exercises.",
+        "general_objective": "Develop digital literacy and oral communication through an exercise challenge.",
+        "specific_objectives": [
+          "Select or create an exercise challenge video",
+          "Use present simple and modals in narration",
+          "Record and share the challenge",
+          "Encourage peers to participate"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.1.2",
+          "CE.ING.5.4.1"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Tablet or phone",
+          "Exercise space",
+          "Video editing tool (optional)"
+        ],
+        "technology_integration": "Use digital tools for virtual exercise tracking and video creation.",
+        "skills_developed": [
+          "Digital Literacy",
+          "Oral Communication",
+          "Health Literacy"
+        ]
+      }
+    ],
+    "Recycling for Our World": [
+      {
+        "id": "grade5_scenario6_project1",
+        "category": "Environmental Responsibility",
+        "name": "Recycling Station Poster",
+        "overview": "Students design posters explaining how to use a classroom recycling station, using the present simple tense and modal verbs like 'can' (e.g., 'You can recycle plastic bottles here.').",
+        "general_objective": "Develop environmental awareness and instructional writing skills.",
+        "specific_objectives": [
+          "Explain recycling station categories",
+          "Use present simple and modal 'can'",
+          "Design a clear and informative poster",
+          "Display poster near the recycling station"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.1",
+          "CE.ING.5.3.1"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Poster board",
+          "Markers",
+          "Recycling bin images"
+        ],
+        "technology_integration": "Use digital tools for poster design.",
+        "skills_developed": [
+          "Environmental Responsibility",
+          "Writing",
+          "Visual Communication"
+        ]
+      },
+      {
+        "id": "grade5_scenario6_project2",
+        "category": "Data & Reporting",
+        "name": "Recycling Data Chart",
+        "overview": "Students collect data on the classroom's recycling habits and create a chart to present the findings, using frequency adverbs like 'always' and 'every week'.",
+        "general_objective": "Develop data literacy and reporting skills.",
+        "specific_objectives": [
+          "Collect recycling data from classmates",
+          "Represent data in a chart",
+          "Use frequency adverbs in presentation",
+          "Discuss findings with the class"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.2",
+          "CE.ING.5.3.2"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Survey sheet",
+          "Graph paper or digital chart tool",
+          "Markers"
+        ],
+        "technology_integration": "Use digital tools for chart creation.",
+        "skills_developed": [
+          "Data Literacy",
+          "Critical Thinking",
+          "Communication"
+        ]
+      },
+      {
+        "id": "grade5_scenario6_project3",
+        "category": "Digital Media",
+        "name": "Recycling Campaign Video",
+        "overview": "Students create a video campaign encouraging recycling at school. They use the present simple tense and modal verbs to describe actions for sustainability.",
+        "general_objective": "Develop digital media and persuasive communication skills.",
+        "specific_objectives": [
+          "Write and record a recycling campaign message",
+          "Use present simple and modal verbs",
+          "Edit and share the video",
+          "Persuade peers to recycle more"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.1.2",
+          "CE.ING.5.4.1"
+        ],
+        "duration": "3 class periods",
+        "materials": [
+          "Tablet or phone",
+          "Script notes",
+          "Video editing tool (optional)"
+        ],
+        "technology_integration": "Use video editing tools for campaign creation.",
+        "skills_developed": [
+          "Digital Literacy",
+          "Persuasive Communication",
+          "Environmental Awareness"
+        ]
+      }
+    ],
+    "Conservation Morning, Noon, and Night!": [
+      {
+        "id": "grade5_scenario7_project1",
+        "category": "Environmental Tracking",
+        "name": "Daily Conservation Log",
+        "overview": "Students keep a daily log of their conservation activities, writing their actions in the imperative form (e.g., 'Turn off the lights to save energy.').",
+        "general_objective": "Develop environmental habits and writing skills using imperatives.",
+        "specific_objectives": [
+          "Record daily conservation actions",
+          "Use imperatives correctly",
+          "Reflect on personal habits",
+          "Share log with classmates"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.1",
+          "CE.ING.5.3.1"
+        ],
+        "duration": "Ongoing (1 week)",
+        "materials": [
+          "Log notebook or sheet",
+          "Pencils",
+          "Energy-saving checklist"
+        ],
+        "technology_integration": "Use digital tracking tools and apps.",
+        "skills_developed": [
+          "Environmental Awareness",
+          "Writing",
+          "Self-Reflection"
+        ]
+      },
+      {
+        "id": "grade5_scenario7_project2",
+        "category": "Visual Comparison",
+        "name": "Conservation vs. Recycling Poster",
+        "overview": "Students create a poster comparing different conservation actions and their benefits, using comparatives and superlatives (e.g., 'Saving water is easier than recycling.').",
+        "general_objective": "Develop comparative language and environmental literacy.",
+        "specific_objectives": [
+          "Compare conservation and recycling actions",
+          "Use comparatives and superlatives",
+          "Design an organized and visual poster",
+          "Present poster to class"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.2",
+          "CE.ING.5.3.2"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Poster board",
+          "Markers",
+          "Conservation images"
+        ],
+        "technology_integration": "Use digital design tools.",
+        "skills_developed": [
+          "Comparative Language",
+          "Environmental Literacy",
+          "Visual Communication"
+        ]
+      },
+      {
+        "id": "grade5_scenario7_project3",
+        "category": "Challenge & Reflection",
+        "name": "Energy Saving Challenge",
+        "overview": "Students participate in an energy-saving challenge by tracking their energy conservation efforts over a week and using comparatives to describe results.",
+        "general_objective": "Develop environmental responsibility and comparative language through action.",
+        "specific_objectives": [
+          "Track energy-saving efforts for one week",
+          "Use comparatives to describe results",
+          "Reflect on impact and share findings",
+          "Encourage others to conserve energy"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.3.1",
+          "CE.ING.5.4.1"
+        ],
+        "duration": "Ongoing (1 week) + presentation",
+        "materials": [
+          "Tracking sheet",
+          "Pencils",
+          "Energy-saving tips card"
+        ],
+        "technology_integration": "Use digital tracking tools and apps to log activities.",
+        "skills_developed": [
+          "Environmental Responsibility",
+          "Critical Thinking",
+          "Comparative Language"
+        ]
+      }
+    ],
+    "Planning Meals for My Family": [
+      {
+        "id": "grade5_scenario8_project1",
+        "category": "Health & Planning",
+        "name": "Healthy Meal Plan",
+        "overview": "Students create a meal plan for their family, using countable and uncountable nouns with quantifiers (e.g., 'a few apples' or 'some rice') and modal verbs to describe preparation (e.g., 'We can cook beans.').",
+        "general_objective": "Develop health literacy and writing skills using food vocabulary.",
+        "specific_objectives": [
+          "Plan healthy meals for the week",
+          "Use countable/uncountable nouns and quantifiers",
+          "Use modal verbs for preparation",
+          "Share meal plan with family or class"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.1",
+          "CE.ING.5.3.1"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Paper or notebook",
+          "Food vocabulary chart",
+          "Markers"
+        ],
+        "technology_integration": "Use digital tools for meal plan creation.",
+        "skills_developed": [
+          "Health Literacy",
+          "Writing",
+          "Planning"
+        ]
+      },
+      {
+        "id": "grade5_scenario8_project2",
+        "category": "Digital Collaboration",
+        "name": "Digital Recipe Book",
+        "overview": "Students collaborate to create a digital recipe book featuring healthy meals. They describe the ingredients and steps using the present simple tense.",
+        "general_objective": "Develop collaborative writing and digital literacy skills.",
+        "specific_objectives": [
+          "Write a simple recipe with ingredients and steps",
+          "Use present simple tense correctly",
+          "Collaborate with peers on the book",
+          "Share the digital recipe book with class"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.2.2",
+          "CE.ING.5.4.1"
+        ],
+        "duration": "2-3 class periods",
+        "materials": [
+          "Tablet or computer",
+          "Recipe template",
+          "Food images"
+        ],
+        "technology_integration": "Use digital tools for recipe book creation.",
+        "skills_developed": [
+          "Collaboration",
+          "Digital Literacy",
+          "Writing"
+        ]
+      },
+      {
+        "id": "grade5_scenario8_project3",
+        "category": "Visual Health Education",
+        "name": "Nutrition Poster",
+        "overview": "Students design a nutrition poster highlighting the benefits of different foods, using quantifiers and the present simple tense (e.g., 'Fruits and vegetables are good for you.').",
+        "general_objective": "Develop health awareness and visual communication skills.",
+        "specific_objectives": [
+          "Highlight benefits of healthy foods",
+          "Use quantifiers and present simple",
+          "Design a clear and colorful poster",
+          "Display poster in the classroom"
+        ],
+        "institutional_standards": [
+          "CE.ING.5.3.1",
+          "CE.ING.5.3.2"
+        ],
+        "duration": "2 class periods",
+        "materials": [
+          "Poster board",
+          "Markers/crayons",
+          "Food images"
+        ],
+        "technology_integration": "Use digital tools for poster design.",
+        "skills_developed": [
+          "Health Awareness",
+          "Visual Communication",
+          "Creativity"
+        ]
+      }
+    ]
+  }
+}
