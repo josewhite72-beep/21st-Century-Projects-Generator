@@ -1,0 +1,505 @@
+{
+  "grade": "1",
+  "proficiency_level": "Pre A1.1",
+  "scenarios": [
+    {
+      "scenario_number": 1,
+      "title": "All Week Long!",
+      "themes": [
+        "Today Is Tuesday!",
+        "It's the Weekend."
+      ],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Recognize familiar words and basic phrases.",
+          "interactive": "Respond to simple conversations on familiar topics by using gestures or by pointing."
+        },
+        "reading": {
+          "reading1": "Find familiar words in a text.",
+          "reading2": "Identify one-step written directions with visual support.",
+          "phonemic_awareness": "Identify sounds of the letters of the alphabet when supported with a concrete item or picture representing that sound."
+        },
+        "speaking": {
+          "productive": "Use basic words or phrases to identify time words.",
+          "interactive": "Exchange simple questions and answers about the current day."
+        },
+        "writing": {
+          "productive": "Write their own name and other very familiar words without assistance.",
+          "interactive": "Draw pictures related to a simple sentence they have written."
+        },
+        "mediation": {
+          "text": "Use pictures or objects to express ideas."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": [
+            "Noun + verb + noun (e.g., \"Today is Monday.\")",
+            "Present simple (e.g., \"It is the weekend.\")",
+            "WH-questions (e.g., \"What day is today?\")"
+          ],
+          "vocabulary": [
+            "Nouns: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, weekend, day, week",
+            "Verbs: be (am, is, are)",
+            "Adverbs of time: today, tomorrow",
+            "Numbers: 1-20",
+            "Adjectives: relaxing, exciting, busy, quiet",
+            "Prepositions of time: on, before, after"
+          ],
+          "pronunciation": [
+            "Pronunciation: /w/ in \"weekend\" and /d/ in \"day\"",
+            "Phonemic awareness: Recognizing sounds of letters of the alphabet in familiar words related to days of the week and routines"
+          ]
+        },
+        "pragmatic": [
+          "Exchanging questions and answers: Exchanging questions and answers about the current day using simple phrases like \"Today is Monday.\"",
+          "Using time-related vocabulary: Identifying words for days and weekends by using or pointing to them"
+        ],
+        "sociolinguistic": [
+          "Classroom schedules: Using polite expressions when talking about the days of the week and routines."
+        ]
+      },
+      "assessment_ideas": [
+        "Days of the Week Calendar",
+        "Day of the Week Song",
+        "Daily Schedule Chart"
+      ]
+    },
+    {
+      "scenario_number": 2,
+      "title": "Nice Weather Today!",
+      "themes": [
+        "It's Sunny!",
+        "It's Raining."
+      ],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Follow very simple directions and instructions.",
+          "interactive": "Respond to simple conversations on familiar topics by using gestures or by pointing."
+        },
+        "reading": {
+          "reading1": "Identify one-step written directions with visual support.",
+          "reading2": "Match simple words to corresponding pictures.",
+          "phonemic_awareness": "Identify sounds of the letters of the alphabet when supported with a concrete item or picture representing that sound."
+        },
+        "speaking": {
+          "productive": "Use basic words or phrases to identify time words.",
+          "interactive": "Exchange simple questions and answers about the current day."
+        },
+        "writing": {
+          "productive": "Fill in a form with their name and age with adult help.",
+          "interactive": "Write simple phrases with errors on a drawing or postcard."
+        },
+        "mediation": {
+          "text": "Draw a single picture that represents a simple story or event.",
+          "communication": "Use gestures to show how to play a very simple game."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": [
+            "Present continuous (e.g., \"It is raining.\")",
+            "Subject + verb + adjective (e.g., \"It is sunny.\")",
+            "WH-questions (e.g., \"What is the weather today?\")"
+          ],
+          "vocabulary": [
+            "Nouns: numbers 1-20, weather, sun, rain, clouds, wind, day, storm, snow",
+            "Verbs: rain, shine, blow, fall, clear up",
+            "Adjectives: sunny, rainy, cloudy, warm, cold, cool, clear, windy"
+          ],
+          "pronunciation": [
+            "Pronunciation: /s/ in \"sunny\" and /r/ in \"raining\"",
+            "Phonemic awareness: Initial sound of letter /w/ in the word \"weather\" and identification of sounds of letters of the alphabet in familiar vocabulary (e.g., /r/ in \"rainy\")"
+          ]
+        },
+        "pragmatic": [
+          "Talking about weather: Describe simple weather conditions (e.g., \"It is sunny.\") and describe simple reactions to weather (e.g., \"I'm cold.\" or \"I'm hot.\")",
+          "Asking questions about weather: Ask basic questions, such as \"What is the weather today?\" to learn about daily conditions"
+        ],
+        "sociolinguistic": [
+          "Weather conversations: Engaging in simple weather-related conversations."
+        ]
+      },
+      "assessment_ideas": [
+        "Weather Wheel",
+        "Weather Journal",
+        "Weather Report Video"
+      ]
+    },
+    {
+      "scenario_number": 3,
+      "title": "Colors in Our World",
+      "themes": [
+        "That's a Purple Flower.",
+        "It's an Orange Cat."
+      ],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Identify the topic of a conversation that involves familiar subjects.",
+          "interactive": "Respond to simple conversations on familiar topics by using gestures or by pointing."
+        },
+        "reading": {
+          "reading1": "Identify pictures that show what happened in a simple story heard.",
+          "reading2": "Identify simple words for very common symbols.",
+          "phonemic_awareness": "Identify sounds of the letters of the alphabet when supported with a concrete item or picture representing that sound."
+        },
+        "speaking": {
+          "productive": "Name primary and secondary colors.",
+          "interactive": "Express likes or dislikes using simple words and pointing."
+        },
+        "writing": {
+          "productive": "Write numbers up to 10 with guidance.",
+          "interactive": "Write one-word answers to simple questions."
+        },
+        "mediation": {
+          "text": "Identify a few familiar words from a story by connecting them to prior knowledge."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": [
+            "Color + noun (e.g., \"blue bird\")",
+            "WH-questions (e.g., \"What color is it?\")",
+            "Present simple (e.g., \"It is an orange cat.\")"
+          ],
+          "vocabulary": [
+            "Nouns: bird, flower, cat, tree, house, leaf, sky",
+            "Verbs: see, look, fly, sit, grow, count, be (is), color, show",
+            "Adjectives: blue, purple, orange, green, red, tall, small",
+            "Determiners/Pronouns: that, this",
+            "Quantifiers: two, three, four, many"
+          ],
+          "pronunciation": [
+            "Pronunciation: /l/ in \"blue\" and \"leaf\"",
+            "Phonemic awareness: Identifying initial sounds of letters of the alphabet in common objects and things (e.g., /f/ in \"fish,\" /b/ in \"bird,\" /k/ in \"cat\")"
+          ]
+        },
+        "pragmatic": [
+          "Recognizing colors and objects: Identify familiar objects by color (e.g., \"blue bird\" or \"red flower.\")",
+          "Describing with colors: Use simple color phrases in sentences (e.g., \"That is a red bird.\")",
+          "Counting and identifying colors of objects: Identify and count familiar objects while specifying their color (e.g., \"three blue birds\" or \"two red flowers\")"
+        ],
+        "sociolinguistic": [
+          "Observing surroundings: Describing objects using color and shape while considering their cultural or personal significance."
+        ]
+      },
+      "assessment_ideas": [
+        "Color Nature Walk",
+        "Color Sorting Game",
+        "Color Collage"
+      ]
+    },
+    {
+      "scenario_number": 4,
+      "title": "My Family and I",
+      "themes": [
+        "It's My Family!",
+        "She Is My Mom!"
+      ],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Show comprehension of basic expressions for greeting and leave-taking if supported by gestures.",
+          "interactive": "Answer simple questions about oneself, using gestures or formulaic expressions."
+        },
+        "reading": {
+          "reading1": "Recognize when written, without visual support, not only their own name but also the names of classmates or family members.",
+          "reading2": "Point to simple words in the text that identify objects or characters in a picture book.",
+          "phonemic_awareness": "Identify sounds of the letters of the alphabet when supported with a concrete item or picture representing that sound."
+        },
+        "speaking": {
+          "productive": "Locate objects and people, using words.",
+          "interactive": "Respond nonverbally to simple yes/no questions by nodding or shaking head."
+        },
+        "writing": {
+          "productive": "Write their own name and other very familiar words without assistance.",
+          "interactive": "Draw pictures related to a simple sentence they have written."
+        },
+        "mediation": {
+          "text": "Use pictures or objects to express ideas.",
+          "communication": "Use gestures and demonstrations to help classmates perform a simple task."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": [
+            "Personal pronouns + verb (e.g., \"I am\" \"She is\")",
+            "Possessive adjectives (e.g., \"my mom\")",
+            "WH-questions (e.g., \"Who is she/he?\")"
+          ],
+          "vocabulary": [
+            "Nouns: family, mom, dad, brother, sister, aunt, uncle, cousin, grandmother, grandfather, pet, home",
+            "Verbs: be (is, are), love, live, play, visit, hug, help, talk, smile",
+            "Adjectives: old, young, friendly, tall, short",
+            "Personal pronouns: she, he",
+            "Possessive adjectives: my, your, his, her"
+          ],
+          "pronunciation": [
+            "Pronunciation: /m/ in \"mom\" and /d/ in \"dad\"",
+            "Phonemic awareness: Matching letter sounds to words, such as /b/ in \"brother\" and /s/ in \"sister\""
+          ]
+        },
+        "pragmatic": [
+          "Introducing family members: Use simple sentences to describe family (e.g., \"She is my mom.\")",
+          "Asking about family: Respond to basic questions about family members (e.g., \"Who is he?\" \"He is my brother.\")"
+        ],
+        "sociolinguistic": [
+          "Describing Family Roles: Using appropriate language to describe family members and their roles (e.g., \"This is my mother.\")."
+        ]
+      },
+      "assessment_ideas": [
+        "Family Portrait",
+        "Family Member Interview",
+        "Digital Family Tree"
+      ]
+    },
+    {
+      "scenario_number": 5,
+      "title": "Colors of Things that Go",
+      "themes": [
+        "That's a Blue Bus.",
+        "That's a Red Bike."
+      ],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Catch the main idea of a short, simple story or announcement with visual support or illustrations.",
+          "interactive": "Identify objects in the immediate environment in response to simple questions."
+        },
+        "reading": {
+          "reading1": "Sequence pictures to demonstrate comprehension of texts that include a clear beginning, middle, and end.",
+          "reading2": "Show comprehension of the main action or event in a very simple storybook with pictures.",
+          "phonemic_awareness": "Identify sounds of the letters of the alphabet when supported with a concrete item or picture representing that sound."
+        },
+        "speaking": {
+          "productive": "Name common objects and people, including family members.",
+          "interactive": "Take part in very simple classroom games using one or two repeated lines."
+        },
+        "writing": {
+          "productive": "Fill in a form with their name and age with adult help.",
+          "interactive": "Write very simple sentences with assistance, even if errors are present."
+        },
+        "mediation": {
+          "text": "Draw a single picture that represents a simple story or event.",
+          "communication": "Lead a simple classroom activity like a lineup or cleanup using gestures and basic words."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": [
+            "Color + noun (e.g., \"green car\")",
+            "WH-questions (e.g., \"What color is the car?\")",
+            "Present simple (e.g., \"It is a red bike.\")"
+          ],
+          "vocabulary": [
+            "Nouns: car, bus, bike, truck, train, taxi",
+            "Verbs: drive, ride, see, go, stop, be (is)",
+            "Adjectives: green, blue, red, yellow, purple, blue, red, orange, small, big, old, new",
+            "Demonstratives: this, that",
+            "Preposition of place: on"
+          ],
+          "pronunciation": [
+            "Pronunciation: /k/ in \"car\" and /b/ in \"bus\"",
+            "Phonemic awareness: Initial sound at the beginning of vehicle-related vocabulary (e.g., /k/ in \"car\") and identification of sounds of letters of the alphabet in familiar vocabulary (e.g., /y/ in \"yellow\")"
+          ]
+        },
+        "pragmatic": [
+          "Describing objects: When describing colors in transportation, use phrases that describe vehicles, like \"It is a red bike.\" \"That is a green car.\" or \"It's a blue bus.\"",
+          "Answering questions about colors and objects: Respond with one-word answers or gestures for vehicles and colors (e.g., \"Point to the blue bus.\")"
+        ],
+        "sociolinguistic": [
+          "Norms of politeness for making requests: Using culturally appropriate norms of politeness in communication when describing transportation (e.g., \"Please, point to the blue car.\")."
+        ]
+      },
+      "assessment_ideas": [
+        "Vehicle Color Matching",
+        "Vehicle Drawing Game",
+        "Transportation Chart"
+      ]
+    },
+    {
+      "scenario_number": 6,
+      "title": "Shapes Around Us",
+      "themes": [
+        "I See a Rectangle.",
+        "That Is a Circle."
+      ],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Recognize simple classroom instructions spoken slowly and clearly.",
+          "interactive": "Respond to simple conversations on familiar topics by using gestures or by pointing."
+        },
+        "reading": {
+          "reading1": "Recognize familiar words in simple texts.",
+          "reading2": "Match simple words to corresponding pictures.",
+          "phonemic_awareness": "Identify sounds of the letters of the alphabet when supported with a concrete item or picture representing that sound."
+        },
+        "speaking": {
+          "productive": "Name common classroom objects and familiar people.",
+          "interactive": "Engage with very simple classroom commands."
+        },
+        "writing": {
+          "productive": "Write numbers up to ten with guidance.",
+          "interactive": "Write one-word answers to simple questions."
+        },
+        "mediation": {
+          "communication": "Use gestures and demonstrations to help classmates perform a simple task."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": [
+            "Shape + noun (e.g., \"a square table\")",
+            "WH-questions (e.g., \"What shape is it?\")",
+            "Present simple (e.g., \"That is a circle.\")"
+          ],
+          "vocabulary": [
+            "Nouns: square, rectangle, circle, triangle, oval, diamond, star",
+            "Personal pronoun: it",
+            "Verbs: see, look, draw, find, be (is)",
+            "Adjectives: round, square, tall, long, short, big, small",
+            "Demonstratives: this, that"
+          ],
+          "pronunciation": [
+            "Pronunciation: /s/ in \"square\" and /r/ in \"rectangle\"",
+            "Phonemic awareness: Shape names, initial sounds in names of shapes (e.g., /s/ in \"square\")"
+          ]
+        },
+        "pragmatic": [
+          "Identifying shapes: Recognize and name shapes like squares and circles during classroom activities",
+          "Describing shapes: Use simple phrases to talk about shapes (e.g., \"This is a rectangle.\")"
+        ],
+        "sociolinguistic": [
+          "Shape and color recognition: Describing characteristics of objects around using the names of shapes and colors (e.g., \"The sun is yellow.\")."
+        ]
+      },
+      "assessment_ideas": [
+        "Shape Collage",
+        "Shape Sorting Activity",
+        "Digital Shape Game"
+      ]
+    },
+    {
+      "scenario_number": 7,
+      "title": "Shapes on Our Plates",
+      "themes": [
+        "It's a Square Cracker.",
+        "It's a Round Orange."
+      ],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Recognize familiar words and basic phrases.",
+          "interactive": "Identify objects in the immediate environment in response to simple questions."
+        },
+        "reading": {
+          "reading1": "Recognize familiar words in simple texts.",
+          "reading2": "Identify simple words for very common symbols.",
+          "phonemic_awareness": "Identify sounds of the letters of the alphabet when supported with a concrete item or picture representing that sound."
+        },
+        "speaking": {
+          "productive": "Name primary and secondary colors.",
+          "interactive": "Answer questions using simple words."
+        },
+        "writing": {
+          "productive": "Label common items using a model to copy from.",
+          "interactive": "Write simple phrases with errors on a drawing or postcard."
+        },
+        "mediation": {
+          "text": "Use pictures or objects to express ideas."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": [
+            "Adjective + noun (e.g., \"round apple\")",
+            "WH-questions (e.g., \"What shape is it?\")",
+            "Present simple (e.g., \"Oranges are round.\")"
+          ],
+          "vocabulary": [
+            "Nouns: pineapple, lemon, lime, mango, papaya, cracker, banana, food, juice box, snack, meal",
+            "Verbs: eat, cut, hold, see, mix",
+            "Adjectives: round, square, oval, big, small, healthy, tasty, orange, black, brown, white",
+            "Demonstratives: this, that"
+          ],
+          "pronunciation": [
+            "Pronunciation: /r/ in \"round\" and /k/ in \"cracker\"",
+            "Phonemic awareness: Recognizing sounds of letters of the alphabet in names of shapes and foods (e.g., /æ/ in \"apple\")"
+          ]
+        },
+        "pragmatic": [
+          "Identifying food shapes: Identifying and describing foods by shape (e.g., \"The cracker is square.\").",
+          "Asking about shapes in food: Engage in simple questions about food items (e.g., \"What shape is the apple?\")"
+        ],
+        "sociolinguistic": [
+          "Describing food: Using simple words to describe the colors and shapes of fruits and other foods, such as \"orange\" and \"cracker.\"."
+        ]
+      },
+      "assessment_ideas": [
+        "Food Shape Match",
+        "Food Shape Sorting",
+        "Digital Food Shape Chart"
+      ]
+    },
+    {
+      "scenario_number": 8,
+      "title": "It's Our Garden.",
+      "themes": [
+        "The Pink Flowers!",
+        "A Tall Tree!"
+      ],
+      "standards_and_learning_outcomes": {
+        "listening": {
+          "receptive": "Catch the main idea of a short, simple story or announcement with visual support or illustrations.",
+          "interactive": "Respond to simple conversations on familiar topics by using gestures or by pointing."
+        },
+        "reading": {
+          "reading1": "Match simple words to corresponding pictures.",
+          "reading2": "Identify simple words for very common symbols.",
+          "phonemic_awareness": "Identify sounds of the letters of the alphabet when supported with a concrete item or picture representing that sound."
+        },
+        "speaking": {
+          "productive": "Name primary and secondary colors.",
+          "interactive": "Express likes or dislikes using simple words and pointing."
+        },
+        "writing": {
+          "productive": "Write simple greetings on cards.",
+          "interactive": "Write very simple sentences with assistance, even if errors are present."
+        },
+        "mediation": {
+          "communication": "Use gestures and demonstrations to help classmates perform a simple task."
+        }
+      },
+      "communicative_competences": {
+        "linguistic": {
+          "grammar": [
+            "Noun + verb + adjective (e.g., \"The flowers are pink.\")",
+            "WH-questions (e.g., \"What color is the flower?\")",
+            "Present simple (e.g., \"This is a tall tree.\")"
+          ],
+          "vocabulary": [
+            "Nouns: garden, tree, flower, plant, leaf, bush, seed, vine, soil, sun",
+            "Verbs: grow, seed, plant, water, bloom, sprout, be (is/are/am)",
+            "Adjectives: pink, green, tall, short, small, big, leafy, little",
+            "Question word: what",
+            "Demonstratives: this, that",
+            "Possessive pronouns: my, your, his, her"
+          ],
+          "pronunciation": [
+            "Pronunciation: /g/ in \"garden\" and /t/ in \"tree\"",
+            "Phonemic awareness: Identification of sounds of letters of the alphabet in nature-related vocabulary (e.g., /s/ in \"sun\")"
+          ]
+        },
+        "pragmatic": [
+          "Talking about nature: Describe plants and trees with singular and plural phrases (e.g., \"The tree is tall.\" \"The flowers are pink.\")",
+          "Asking questions in nature: Use basic questions like \"What color is the flower?\" to learn about plants"
+        ],
+        "sociolinguistic": [
+          "Respect for nature: Talking about plants and trees using respectful language (e.g., \"I like plants.\")."
+        ]
+      },
+      "assessment_ideas": [
+        "Garden Nature Journal",
+        "Garden Scavenger Hunt",
+        "Digital Nature Photo Book"
+      ]
+    }
+  ]
+}
